@@ -63,3 +63,17 @@ Este proyecto fue desarrollado como material educativo para estudiantes de BIT +
 - **LinkedIn:** [Perfil de linkedIn](www.linkedin.com/in/sergio-polo-desarrollador-full-stack) 
 
 ¡Explora los ejemplos y adapta las soluciones a tus propios proyectos!
+
+##Actividades taller
+
+1. Creación del repositorio
+<img href="/imgs/1.png">
+
+2. Conexión base de datos y ejecución del servidor
+<img href="/imgs/2.png">
+
+3. Prueba de los casos de prueba ejecutados correctamente
+<img href="/imgs/3.png">
+
+4. Prueba de los casos de prueba ejecutados con un error
+<img href="/imgs/4.png">
