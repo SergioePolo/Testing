@@ -67,13 +67,16 @@ Este proyecto fue desarrollado como material educativo para estudiantes de BIT +
 ##Actividades taller
 
 1. Creación del repositorio
-<img href="/imgs/1.png">
+![Logo](imgs/1.png)
 
 2. Conexión base de datos y ejecución del servidor
-<img href="/imgs/2.png">
+![Logo](imgs/2.png)
 
 3. Prueba de los casos de prueba ejecutados correctamente
-<img href="/imgs/3.png">
+![Logo](imgs/3.png)
 
 4. Prueba de los casos de prueba ejecutados con un error
-<img href="/imgs/4.png">
+![Logo](imgs/4.png)
+
+5. Prueba del método login de usuario y sus diferentes casos de prueba
+![Logo](imgs/5.png)
