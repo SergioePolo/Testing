@@ -59,3 +59,14 @@ Este proyecto fue desarrollado como material educativo para estudiantes de BIT +
 - **LinkedIn:** [Perfil de linkedIn](www.linkedin.com/in/sergio-polo-desarrollador-full-stack) 
 
 ¡Explora los ejemplos y adapta las soluciones a tus propios proyectos!
+
+##Taller
+
+1. Test de ejemplo funcionando correctamente
+![Logo](assets/1.png)
+
+2. Test de ejemplo mostrando un error en su funcionamiento
+![Logo](assets/2.png)
+
+3. Tests validados correctamente hacia el servicio de login
+![Logo](assets/3.png)

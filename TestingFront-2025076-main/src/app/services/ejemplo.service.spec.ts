@@ -1,5 +1,6 @@
-import { TestBed } from '@angular/core/testing';
-import { EjemploService } from './ejemplo.service';
+
+import { TestBed } from '@angular/core/testing'; //TestBed configura el entorno de pruebas 
+import { EjemploService } from './ejemplo.service'; //Servicio o ponentes a probar
 
 describe('EjemploService', () => {
   let service: EjemploService;
